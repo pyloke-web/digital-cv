@@ -1,7 +1,7 @@
 # Loke Pak-Yen
 A second year undergraduate student
 
-## :book: Education
+## 📖 Education
 **BSC Psychology** @ University of Nottingham *(September 2020 - Present)*
 - 25% scholarship
 - ***Modules include:*** Economic Integration, Making of Modern Asia, Neuroscience and Behaviour, SocialPsychology, Research Methods and Analyses
