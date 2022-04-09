@@ -71,11 +71,11 @@ previously the departmental associate for information technology and design depa
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1]
+You can find me on [![LinkedIn][1.2]][1]
 
 <!-- Icons -->
 
-[1.2]: https://imgur.com/OQUXwNp
+[1.2]: https://imgur.com/OQUXwNp (LinkedIn without padding)
 
 <!-- Links to your social media accounts -->
 
