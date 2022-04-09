@@ -20,7 +20,7 @@ A second-year undergraduate student
 - Final Grade: 10 As 
 
 ## 👩‍💻 Work Experiences
-**Co-founder** @ [Skill Defyne Global](http://skilldefyne.com/) *(January 2021 - Present)*
+**Co-founder** @ [Skill Defyne Global](http://skilldefyne.com/) *(January 2021 - Present)* <br>
 Edutech and service platform for undergraduate students
 - Lead and completed web development projects and UX/UI design projects
 - Developed marketing and outreach strategies
