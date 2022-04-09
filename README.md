@@ -69,14 +69,3 @@ previously the departmental associate for information technology and design depa
   - Cert. Introduction to Business Analysis using Spreadsheets
   - Cert. Create your first Python Program
 
-<!-- Actual text -->
-
-You can find me on [![LinkedIn][1.2]][1]
-
-<!-- Icons -->
-
-[1.2]: https://imgur.com/OQUXwNp (LinkedIn without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://www.linkedin.com/in/lokepak-yen/
