@@ -8,3 +8,9 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
+
+social-network-links:
+  email: "pakyenloke@gmail.com"
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  linkedin: lokepak-yen
+  github: pyloke-web
