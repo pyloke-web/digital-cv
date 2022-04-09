@@ -14,3 +14,9 @@ social-network-links:
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   linkedin: lokepak-yen
   github: pyloke-web
+
+
+share-links-active:
+  linkedin: true
+  
+url-pretty: "https://pyloke-web.github.io/digital-cv/"
