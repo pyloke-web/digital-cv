@@ -21,6 +21,7 @@ A second-year undergraduate student
 
 **Sijil Peperiksaan Malaysia (SPM)** @ SMJK Katholik *(January 2018 - December 2018)*
 - Final Grade: 10 As 
+- ***Modules include:*** Science stream subjects, Principle of Accountings, Mandarin
 
 ## 👩‍💻 Work Experiences
 **Co-founder** @ [Skill Defyne Global](http://skilldefyne.com/) *(January 2021 - Present)*  
