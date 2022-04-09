@@ -2,25 +2,12 @@
 A second-year undergraduate student
 
 ```HTML
-  <head>
-    <link rel="stylesheet" href="an-skill-bar.min.css">
-    <script src="scripts/an-skill-bar.js"></script>
-</head>
-<body>
-  <div class="skillbar">
-      <span class="title"></i> less</span>
-      <span class="percent">40%</span>
-      <div class="filled" data-width="90%"></div>
-  
+  <div class="skillBar">
+	<div class="skillBar_{50 to 100} bar{Color Theme Name}">
+		<span class="skillArea">{Any Text}</span>
+		<span class="percentText">{Percentage Text}</span>
+	</div>
 </div>
-$(document).ready(function () {
-    $(".skillbar").skillbar({
-        speed: 1000,
-        bg : "#008080"
-    });
-});
-</body>
-
 ```
 
 ## 📖 Education
