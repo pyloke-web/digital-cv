@@ -12,10 +12,11 @@ A second year undergraduate student
 - ***Modules include:*** Biology, Chemistry, Psychology, Mathematics
 
 **Executive Diploma in Management** @ Stamford Raffles College *(January 2019 - August 2019)*
+- Final Grade: Passed
 - ***Modules include:*** Innovative Management, Consumer Behaviour, Operations Management
 
 **Sijil Peperiksaan Malaysia (SPM)** @ SMJK Katholik *(January 2018 - December 2018)*
-- Final Grade: 10 As (A*,A,A-)
+- Final Grade: 10 As 
 
 ## 👩‍💻 Work Experiences
 **Co-founder** @ [Skill Defyne Global](http://skilldefyne.com/) *(January 2021 - Present)*
