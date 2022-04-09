@@ -75,7 +75,7 @@ You can find me on [![Twitter][1.2]][1]
 
 <!-- Icons -->
 
-[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: https://imgur.com/OQUXwNp
 
 <!-- Links to your social media accounts -->
 
