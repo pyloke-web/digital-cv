@@ -2,3 +2,9 @@ theme: jekyll-theme-minimal
 title: 💻💼💖
 description: Hello, I am Pak-Yen, a second year undergraduate student. Explore my CV!
 
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
