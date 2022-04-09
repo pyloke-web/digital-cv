@@ -20,3 +20,7 @@ share-links-active:
   linkedin: true
   
 url-pretty: "https://pyloke-web.github.io/digital-cv/"
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
