@@ -1,4 +1,4 @@
-# ✋ Hi there, I am Yen
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I am Yen
 A second-year undergraduate student
 
 ## 📖 Education
