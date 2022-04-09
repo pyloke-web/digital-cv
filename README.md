@@ -3,9 +3,12 @@ A second-year undergraduate student
 
 
 ## 📖 Education
-**BSC Psychology** @ University of Nottingham *(September 2020 - Present)*
+**BSc Psychology** @ University of Nottingham *(September 2020 - Present)*
 - 25% scholarship
 - ***Modules include:*** Economic Integration, Making of Modern Asia, Neuroscience and Behaviour, SocialPsychology, Research Methods and Analyses
+
+**BSc Data Science and Business Analytics** @ University of London with academic direction from London School of Economics *(September 2020 - Present)*
+- ***Modules include:*** Business and Management in a Global Context, Statistics, Business Analytics, Applied Modelling and Prediction, Economics, Machine Learning
 
 **Cambridge International A levels** @ Taylor's College Lakeside Campus *(January 2019 - June 2020)*
 - 100% scholarship
