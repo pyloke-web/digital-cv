@@ -23,7 +23,7 @@ Edutech and service platform for undergraduate students
 - Lead and completed web development project and UX/UI design projects
 - Developed marketing and outreach strategies
 - Manage operations and implement business strategies based on available datasets
-- ***Technologies used:*** Google Analytics, Wordpress, HTML, CSS, Figma, Google Products
+- ***Technologies used:*** Google Analytics, Wordpress, HTML, CSS, Figma, Google Products, Adobe Products, Filmora
 
 **Digital Marketing Consultant** @ [Connoisseur Ambiance Products Marketing (M) Sdn Bhd](https://reissjadenwine.com/) *(June 2021 - August 2021)*
 Local wine producer marketing products made from local goods
@@ -46,6 +46,14 @@ Worked on a research project on psychosocial effects in underground environments
 - Implemented new features on the [website](https://www.mapstudents.com/)
   -  Mentor-mentee progeram
   -  Event portal for psychology-related events in Malaysia
+- ***Technologies used:*** Wix, Canva
 
+**Head of Department, Communications and Executive Board Member** @ [United Nation Association Malaysia - Youth](https://unamyouth.com/) *(January 2022 - Present)*
+previously the departmental associate for information technology and design department
+- Curated, designed and managed content for all social media accounts
+- Engaged with members through telegram channel and email 
+- Was part of the team that developed the [website](https://unamyouth.com/)
+- - ***Technologies used:*** Wix, Canva, Adobe Products, Google Products
 
+## 🏆 Certifications 
 
