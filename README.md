@@ -56,14 +56,14 @@ previously the departmental associate for information technology and design depa
 - - ***Technologies used:*** Wix, Canva, Adobe Products, Google Products
 
 ## 🏆 Certifications 
-*World Health Organization, 2022* 
-- Training Cert. Migration and Health: Enhancing Intercultural Competence and Diversity Sensitivity
-- Cert. WHO Standard Operating Procedures for Emergencies
-- Cert. COVID-19疫苗特定资源
-- Cert. Health Emergency and Disaster Risk Management for Resilient Cities
-*[Zetaris Networked Data Platform Professional, 2021](https://www.linkedin.com/feed/update/urn:li:activity:6775543961307222016/)* 
-*University of Helsinki, 2020* Cert. of Introduction to Artificial Intelligence
-*Coursera, 2020* 
-- Cert. of Business Analysis & Process Management
-- Cert. Introduction to Business Analysis using Spreadsheets
-- Cert. Create your first Python Program
+- *World Health Organization, 2022* 
+  - Training Cert. Migration and Health: Enhancing Intercultural Competence and Diversity Sensitivity
+  - Cert. WHO Standard Operating Procedures for Emergencies
+  - Cert. COVID-19疫苗特定资源
+  - Cert. Health Emergency and Disaster Risk Management for Resilient Cities
+- *[Zetaris Networked Data Platform Professional, 2021](https://www.linkedin.com/feed/update/urn:li:activity:6775543961307222016/)* 
+- *University of Helsinki, 2020* Cert. of Introduction to Artificial Intelligence
+- *Coursera, 2020* 
+  - Cert. of Business Analysis & Process Management
+  - Cert. Introduction to Business Analysis using Spreadsheets
+  - Cert. Create your first Python Program
