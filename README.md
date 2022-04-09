@@ -1,5 +1,5 @@
-# Loke Pak-Yen
-A second year undergraduate student
+# ✋ Hi there, I am Loke Pak-Yen
+A second-year undergraduate student
 
 ## 📖 Education
 **BSC Psychology** @ University of Nottingham *(September 2020 - Present)*
@@ -21,23 +21,23 @@ A second year undergraduate student
 ## 👩‍💻 Work Experiences
 **Co-founder** @ [Skill Defyne Global](http://skilldefyne.com/) *(January 2021 - Present)*
 Edutech and service platform for undergraduate students
-- Lead and completed web development project and UX/UI design projects
+- Lead and completed web development projects and UX/UI design projects
 - Developed marketing and outreach strategies
 - Manage operations and implement business strategies based on available datasets
-- ***Technologies used:*** Google Analytics, Wordpress, HTML, CSS, Figma, Google Products, Adobe Products, Filmora
+- ***Technologies used:*** Google Analytics, WordPress, HTML, CSS, Figma, Google Products, Adobe Products, Filmora
 
 **Digital Marketing Consultant** @ [Connoisseur Ambiance Products Marketing (M) Sdn Bhd](https://reissjadenwine.com/) *(June 2021 - August 2021)*
-Local wine producer marketing products made from local goods
+Local wine producer, marketing products made from local goods
 - Built a [website](https://reissjadenwine.com/) from design to implementation using no-code platforms
 - Tasked to enhance digital presence
-  - Collaborated with independent deivery services and alcohol-only courier services to establish delivery distribution channels to the whole of West Malaysia
-  - Collaborated with digital news companies and well established e-commerce platforms
+  - Collaborated with independent delivery services and alcohol-only courier services to establish delivery distribution channels to the whole of West Malaysia
+  - Collaborated with digital news companies and well-established e-commerce platforms
 - ***Technologies used:*** Wordpress, HTML, CSS, Figma
 
 **Research Intern** @ [University of Nottingham](https://www.nottingham.edu.my/index.aspx) *(June 2021 - August 2021)*
 Worked on a research project on psychosocial effects in underground environments
 - Conducted data analysis using R programming and IBM SPSS
-- Conducted literature reviews in examining a suitable experimental design in measuring risk-taking behaviours
+- Conducted literature reviews in examining a suitable experimental design for measuring risk-taking behaviours
 - Built 3D models to simulate underground and aboveground environments 
 - ***Technologies used:*** Blender, R programming, IBM SPSS
 
