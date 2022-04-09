@@ -40,3 +40,12 @@ Worked on a research project on psychosocial effects in underground environments
 - Built 3D models to simulate underground and aboveground environments 
 - ***Technologies used:*** Blender, R programming, IBM SPSS
 
+## 💖 Volunteer Experiences
+**Publicity Director and Website Manager** @ [Malaysian Association of Psychology Students](https://www.mapstudents.com/) *(June 2021 - Present)*
+- Manage community engagement in all social media accounts and groups
+- Implemented new features on the [website](https://www.mapstudents.com/)
+  -  Mentor-mentee progeram
+  -  Event portal for psychology-related events in Malaysia
+
+
+
