@@ -3,6 +3,7 @@ A second-year undergraduate student
 
 https://progress-bar.dev/<60%>?title=Data Analysis
 https://progress-bar.dev/<70%>?title=UX Design
+ https://progress-bar.dev/58/?title=completed
 
 ## 📖 Education
 **BSC Psychology** @ University of Nottingham *(September 2020 - Present)*
