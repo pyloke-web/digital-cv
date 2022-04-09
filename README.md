@@ -1,4 +1,4 @@
-# ✋ Hi there, I am Loke Pak-Yen
+# ✋ Hi there, I am Yen
 A second-year undergraduate student
 
 ## 📖 Education
