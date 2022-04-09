@@ -55,7 +55,7 @@ previously the departmental associate for information technology and design depa
 - Curated, designed and managed content for all social media accounts
 - Engaged with members through telegram channel and email 
 - Was part of the team that developed the [website](https://unamyouth.com/)
-- - ***Technologies used:*** Wix, Canva, Adobe Products, Google Products
+- ***Technologies used:*** Wix, Canva, Adobe Products, Google Products
 
 ## 🏆 Certifications 
 - *World Health Organization, 2022* 
