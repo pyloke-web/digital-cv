@@ -1,7 +1,7 @@
 # Hi there, I am Yen! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 A second-year undergraduate student
 
-![60%](https://progress-bar.dev/<60%>?title=Data Analysis)
+![60%](https://progress-bar.dev/<60%>?title=<Data Analysis>)
 ![70%](https://progress-bar.dev/<70%>?title=UX Design)
 
 
