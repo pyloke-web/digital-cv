@@ -1,6 +1,8 @@
 # Hi there, I am Yen! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 A second-year undergraduate student
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyloke-web)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📖 Education
 **BSC Psychology** @ University of Nottingham *(September 2020 - Present)*
 - 25% scholarship
