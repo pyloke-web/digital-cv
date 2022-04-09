@@ -2,10 +2,10 @@
 A second-year undergraduate student
 
 ```HTML
-  <div class="skillBar">
-	<div class="skillBar_{50 to 100} bar{Color Theme Name}">
-		<span class="skillArea">{Any Text}</span>
-		<span class="percentText">{Percentage Text}</span>
+<div class="skillBar">
+	<div class="skillBar_100 barBrown">
+		<span class="skillArea">Java</span>
+		<span class="percentText">100%</span>
 	</div>
 </div>
 ```
