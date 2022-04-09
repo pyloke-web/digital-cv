@@ -1,8 +1,6 @@
 # Hi there, I am Yen! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 A second-year undergraduate student
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyloke-web)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📖 Education
 **BSC Psychology** @ University of Nottingham *(September 2020 - Present)*
 - 25% scholarship
@@ -70,3 +68,15 @@ previously the departmental associate for information technology and design depa
   - Cert. of Business Analysis & Process Management
   - Cert. Introduction to Business Analysis using Spreadsheets
   - Cert. Create your first Python Program
+
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1]
+
+<!-- Icons -->
+
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/lokepak-yen/
