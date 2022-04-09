@@ -20,14 +20,14 @@ A second-year undergraduate student
 - Final Grade: 10 As 
 
 ## 👩‍💻 Work Experiences
-**Co-founder** @ [Skill Defyne Global](http://skilldefyne.com/) *(January 2021 - Present)* <br>
+**Co-founder** @ [Skill Defyne Global](http://skilldefyne.com/) *(January 2021 - Present)*  
 Edutech and service platform for undergraduate students
 - Lead and completed web development projects and UX/UI design projects
 - Developed marketing and outreach strategies
 - Manage operations and implement business strategies based on available datasets
 - ***Technologies used:*** Google Analytics, WordPress, HTML, CSS, Figma, Google Products, Adobe Products, Filmora
 
-**Digital Marketing Consultant** @ [Connoisseur Ambiance Products Marketing (M) Sdn Bhd](https://reissjadenwine.com/) *(June 2021 - August 2021)*
+**Digital Marketing Consultant** @ [Connoisseur Ambiance Products Marketing (M) Sdn Bhd](https://reissjadenwine.com/) *(June 2021 - August 2021)*  
 Local wine producer, marketing products made from local goods
 - Built a [website](https://reissjadenwine.com/) from design to implementation using no-code platforms
 - Tasked to enhance digital presence
@@ -35,7 +35,7 @@ Local wine producer, marketing products made from local goods
   - Collaborated with digital news companies and well-established e-commerce platforms
 - ***Technologies used:*** Wordpress, HTML, CSS, Figma
 
-**Research Intern** @ [University of Nottingham](https://www.nottingham.edu.my/index.aspx) *(June 2021 - August 2021)*
+**Research Intern** @ [University of Nottingham](https://www.nottingham.edu.my/index.aspx) *(June 2021 - August 2021)*  
 Worked on a research project on psychosocial effects in underground environments
 - Conducted data analysis using R programming and IBM SPSS
 - Conducted literature reviews in examining a suitable experimental design for measuring risk-taking behaviours
@@ -50,7 +50,7 @@ Worked on a research project on psychosocial effects in underground environments
   -  Event portal for psychology-related events in Malaysia
 - ***Technologies used:*** Wix, Canva
 
-**Head of Department, Communications and Executive Board Member** @ [United Nation Association Malaysia - Youth](https://unamyouth.com/) *(January 2022 - Present)*
+**Head of Department, Communications and Executive Board Member** @ [United Nation Association Malaysia - Youth](https://unamyouth.com/) *(January 2022 - Present)*  
 previously the departmental associate for information technology and design department
 - Curated, designed and managed content for all social media accounts
 - Engaged with members through telegram channel and email 
