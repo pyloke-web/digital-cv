@@ -1,14 +1,7 @@
 # Hi there, I am Yen! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 A second-year undergraduate student
 
-```HTML
-<div class="skillBar">
-	<div class="skillBar_100 barBrown">
-		<span class="skillArea">Java</span>
-		<span class="percentText">100%</span>
-	</div>
-</div>
-```
+![50%](https://progress-bar.dev/50)
 
 ## 📖 Education
 **BSC Psychology** @ University of Nottingham *(September 2020 - Present)*
