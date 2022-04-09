@@ -58,6 +58,14 @@ previously the departmental associate for information technology and design depa
 - - ***Technologies used:*** Wix, Canva, Adobe Products, Google Products
 
 ## 🏆 Certifications 
+- <details><summary>*World Health Organization, 2022* </summary>
+<p>
+  - Training Cert. Migration and Health: Enhancing Intercultural Competence and Diversity Sensitivity
+  - Cert. WHO Standard Operating Procedures for Emergencies
+  - Cert. COVID-19疫苗特定资源
+  - Cert. Health Emergency and Disaster Risk Management for Resilient Cities
+</p>
+</details>
 - *World Health Organization, 2022* 
   - Training Cert. Migration and Health: Enhancing Intercultural Competence and Diversity Sensitivity
   - Cert. WHO Standard Operating Procedures for Emergencies
