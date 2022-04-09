@@ -1,8 +1,8 @@
 # Hi there, I am Yen! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 A second-year undergraduate student
 
-https://progress-bar.dev/<60%>?title=<Data Analysis>
-https://progress-bar.dev/<70%>?title=<UX Design>
+https://progress-bar.dev/<60%>?title=Data Analysis
+https://progress-bar.dev/<70%>?title=UX Design
 
 ## 📖 Education
 **BSC Psychology** @ University of Nottingham *(September 2020 - Present)*
