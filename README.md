@@ -1,10 +1,6 @@
 # Hi there, I am Yen! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 A second-year undergraduate student
-```
-  <head>
-    <link rel="shortcut icon" type="image/png" href="favicon.png">
-  </head>
-```
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 ## 📖 Education
 **BSc Psychology** @ University of Nottingham *(September 2020 - Present)*
