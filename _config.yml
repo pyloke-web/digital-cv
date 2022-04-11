@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: 💻💼💖
 description: Hello, I am Loke Pak-Yen, a second year undergraduate student. Explore my CV!
+plugins: 
+- jekyll-seo-tag
