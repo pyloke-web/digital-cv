@@ -33,7 +33,7 @@ Edutech and service platform for undergraduate students
 - Manage operations and implement business strategies based on available datasets
 - ***Technologies used:*** Google Analytics, WordPress, HTML, CSS, Figma, Google Products, Adobe Products, Filmora
 
-**Digital Marketing Consultant** @ [Connoisseur Ambiance Products Marketing (M) Sdn Bhd](https://reissjadenwine.com/) *(June 2021 - August 2021)*    
+**Digital Marketing Freelancer** @ [Connoisseur Ambiance Products Marketing (M) Sdn Bhd](https://reissjadenwine.com/) *(June 2021 - August 2021)*    
 Local wine producer, marketing products made from local goods
 - Built a [website](https://reissjadenwine.com/) from design to implementation using no-code platforms
 - Tasked to enhance digital presence
