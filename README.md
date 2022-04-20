@@ -4,10 +4,12 @@ A second-year undergraduate student
 
 ## 📖 Education
 **BSc Psychology** @ University of Nottingham *(September 2020 - Present)*
+- Expected graduation:2023
 - 25% scholarship
 - ***Modules include:*** Economic Integration, Making of Modern Asia, Neuroscience and Behaviour, SocialPsychology, Research Methods and Analyses
 
 **BSc Data Science and Business Analytics** @ University of London with academic direction by London School of Economics *(September 2020 - Present)*
+- Expected graduation:2024
 - ***Modules include:*** Business and Management in a Global Context, Statistics, Business Analytics, Applied Modelling and Prediction, Economics, Machine Learning
 
 **Cambridge International A levels** @ Taylor's College Lakeside Campus *(January 2019 - June 2020)*
@@ -42,23 +44,28 @@ Local wine producer, marketing products made from local goods
 **Research Intern** @ [University of Nottingham](https://www.nottingham.edu.my/index.aspx) *(June 2021 - August 2021)*  
 Worked on a research project on psychosocial effects in underground environments
 - Conducted data analysis using R programming and IBM SPSS
-- Conducted literature reviews in examining a suitable experimental design for measuring risk-taking behaviours
+- Conducted literature reviews in examining a suitable experimental design
 - Built 3D models to simulate underground and aboveground environments 
 - ***Technologies used:*** Blender, R programming, IBM SPSS
 
 ## 💖 Volunteer Experiences
 **Publicity Director and Website Manager** @ [Malaysian Association of Psychology Students](https://www.mapstudents.com/) *(June 2021 - Present)*
-- Manage community engagement in all social media accounts and groups
+- Aministrative work for all social media accounts
 - Implemented new features on the [website](https://www.mapstudents.com/)
   -  Mentor-mentee progeram
   -  Event portal for psychology-related events in Malaysia
 - ***Technologies used:*** Wix, Canva
 
-**Head of Department, Communications and Executive Board Member** @ [United Nation Association Malaysia - Youth](https://unamyouth.com/) *(January 2022 - Present)*  
+**Under-secretary-general, Community Outreach and Collaboration** @ [United Nation Association Malaysia](https://unam.org.my/) *(April 2022 - Present)* 
+- Oversee the planning and implementation of outreach strategies
+- Project management and event coordination
+- Strategic collaborations with local Civil Society Organisations and relevant stakeholders
+
+**Head of Department, Communications and Executive Board Member** @ [United Nation Association Malaysia - Youth](https://unamyouth.com/) *(June 2021 - April 2022)* 
 previously the departmental associate for information technology and design department
 - Curated, designed and managed content for all social media accounts
-- Engaged with members through telegram channel and email 
-- Was part of the team that developed the [website](https://unamyouth.com/)
+- Maneged community engagement through telegram and email 
+- Worked with the Information Technology and Design team to develop the [website](https://unamyouth.com/)
 - ***Technologies used:*** Wix, Canva, Adobe Products, Google Products
 
 ## 🏆 Certifications 
