@@ -42,7 +42,7 @@ Edutech and service platform for undergraduate students
 - Facilitate discussions with the Ministry of Tourism, media, venue and CSR partners
 - Plan and manage event structure and flow of a team of 20 people
 
-**Creative Freelancer, Remote** @ [YouPedia Pt Ltd](https://www.theparadisebeyond.com/) *(August 2021 - Present)*
+**Creative Freelancer, Remote** @ [YouPedia Pt Ltd](https://www.theparadisebeyond.com/) *(August 2021 - Present)*  
 Singaporean digital pet memorial service
 - Created UX/UI prototypes and wireframes for client's website
 - Content creation and social media management for Instagram and Facebook using Publer
