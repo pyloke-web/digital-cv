@@ -85,9 +85,9 @@ previously the departmental associate for information technology and design depa
 - ***Technologies used:*** Wix, Canva, Adobe Products, Google Products
 
 ## Other Involvements
-**Publicity Officer** @ University of Nottingham Student Association
-**Conference Experience Officer** @ Malaysian Psychology Student Assembly
-**Creative and Marketing Offiver** @ Malaysian Youth Local Council
+**Publicity Officer** @ University of Nottingham Student Association 21/22  
+**Conference Experience Officer** @ Malaysian Psychology Student Assembly 2022  
+**Creative and Marketing Offiver** @ Malaysian Youth Local Council 21/22  
 
 ## 🏆 Certifications 
 - *World Health Organization, 2022* 
