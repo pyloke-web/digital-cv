@@ -26,12 +26,28 @@ A second-year undergraduate student
 - ***Modules include:*** Science Stream Subjects, Principle of Accountings, Mandarin
 
 ## 👩‍💻 Work Experiences
+**Research Intern** @ [Khazanah Research Institute](https://www.krinstitute.org/) *(Starting in June 2022)*
+- Performing library research on specified topics
+- Collecting, processing and visualisation of data from various sources of large data sets using statistical analysis software in the preparation of statistical reports and data presentations
+- Providing assistance in the production of research reports, presentations, articles and other publications
+
 **Co-founder** @ [Skill Defyne Global](http://skilldefyne.com/) *(January 2021 - Present)*  
 Edutech and service platform for undergraduate students
 - Lead and completed web development projects and UX/UI design projects
 - Developed marketing and outreach strategies
 - Manage operations and implement business strategies based on available datasets
 - ***Technologies used:*** Google Analytics, WordPress, HTML, CSS, Figma, Google Products, Adobe Products, Filmora
+
+**Event Manager** @ [Thereiss Sdn Bhd](http://thereiss.weebly.com/) *(December 2021 - Present)*
+- Facilitate discussions with the Ministry of Tourism, media, venue and CSR partners
+- Plan and manage event structure and flow of a team of 20 people
+
+**Creative Freelancer, Remote** @ [YouPedia Pt Ltd](https://www.theparadisebeyond.com/) *(August 2021 - Present)*
+Singaporean digital pet memorial service
+- Created UX/UI prototypes and wireframes for client's website
+- Content creation and social media management for Instagram and Facebook using Publer
+- Gaphic design using Canva and Adobe products
+- ***Technologies used:*** Figma, Publer, Adobe Illustrator, Adobe Photoshop, Canva
 
 **Digital Marketing Freelancer** @ [Connoisseur Ambiance Products Marketing (M) Sdn Bhd](https://reissjadenwine.com/) *(June 2021 - August 2021)*    
 Local wine producer, marketing products made from local goods
@@ -50,15 +66,15 @@ Worked on a research project on psychosocial effects in underground environments
 
 ## 💖 Volunteer Experiences
 **Publicity Director and Website Manager** @ [Malaysian Association of Psychology Students](https://www.mapstudents.com/) *(June 2021 - Present)*
-- Aministrative work for all social media accounts
-- Implemented new features on the [website](https://www.mapstudents.com/)
+- Aministrative work and content creation for social media accounts
+- Management and implemention of features on the [website](https://www.mapstudents.com/)
   -  Mentor-mentee progeram
   -  Event portal for psychology-related events in Malaysia
 - ***Technologies used:*** Wix, Canva
 
 **Under-secretary-general, Community Outreach and Collaboration** @ [United Nation Association Malaysia](https://unam.org.my/) *(April 2022 - Present)* 
 - Oversee the planning and implementation of outreach strategies
-- Project management and event coordination
+- Project management and collaboration coordination on events in line with the 17 pillars of Sustainable Developmental Goals
 - Strategic collaborations with local Civil Society Organisations and relevant stakeholders
 
 **Head of Department, Communications and Executive Board Member** @ [United Nation Association Malaysia - Youth](https://unamyouth.com/) *(June 2021 - April 2022)* 
@@ -67,6 +83,11 @@ previously the departmental associate for information technology and design depa
 - Maneged community engagement through telegram and email 
 - Worked with the Information Technology and Design team to develop the [website](https://unamyouth.com/)
 - ***Technologies used:*** Wix, Canva, Adobe Products, Google Products
+
+## Other Involvements
+**Publicity Officer** @ University of Nottingham Student Association
+**Conference Experience Officer** @ Malaysian Psychology Student Assembly
+**Creative and Marketing Offiver** @ Malaysian Youth Local Council
 
 ## 🏆 Certifications 
 - *World Health Organization, 2022* 
