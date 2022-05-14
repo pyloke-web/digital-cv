@@ -43,7 +43,7 @@ Edutech and service platform for undergraduate students
 - Plan and manage event structure and flow of a team of 20 people
 
 **Creative Freelancer, Remote** @ [YouPedia Pt Ltd](https://www.theparadisebeyond.com/) *(August 2021 - Present)*  
-Singaporean digital pet memorial service
+Singaporean digital pet memorial service platform
 - Created UX/UI prototypes and wireframes for client's website
 - Content creation and social media management for Instagram and Facebook using Publer
 - Gaphic design using Canva and Adobe products
