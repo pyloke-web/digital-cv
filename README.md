@@ -87,7 +87,7 @@ previously the departmental associate for information technology and design depa
 ## Other Involvements
 **Publicity Officer** @ University of Nottingham Student Association 21/22  
 **Conference Experience Officer** @ Malaysian Psychology Student Assembly 2022  
-**Creative and Marketing Offiver** @ Malaysian Youth Local Council 21/22  
+**Creative and Marketing Officer** @ Malaysian Youth Local Council 21/22  
 
 ## 🏆 Certifications 
 - *World Health Organization, 2022* 
