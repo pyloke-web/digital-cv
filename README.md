@@ -31,7 +31,7 @@ A second-year undergraduate student
 - Collecting, processing and visualisation of data from various sources of large data sets using statistical analysis software in the preparation of statistical reports and data presentations
 - Providing assistance in the production of research reports, presentations, articles and other publications
 
-**Co-founder** @ [Skill Defyne Global](http://skilldefyne.com/) *(January 2021 - Present)*  
+**Co-founder** @ [Skill Defyne Global](http://skilldefyne.com/) *(January 2021 - May 2022)*  
 Edutech and service platform for undergraduate students
 - Lead and completed web development projects and UX/UI design projects
 - Developed marketing and outreach strategies
@@ -40,9 +40,9 @@ Edutech and service platform for undergraduate students
 
 **Event Manager** @ [Thereiss Sdn Bhd](http://thereiss.weebly.com/) *(December 2021 - Present)*
 - Facilitate discussions with the Ministry of Tourism, media, venue and CSR partners
-- Plan and manage event structure and flow of a team of 20 people
+- Plan and manage event structure and flow of a team of 50 people
 
-**Creative Freelancer, Remote** @ [YouPedia Pt Ltd](https://www.theparadisebeyond.com/) *(August 2021 - Present)*  
+**Creative Freelancer, Remote** @ [YouPedia Pt Ltd](https://www.theparadisebeyond.com/) *(August 2021 - February 2022)*  
 Singaporean digital pet memorial service platform
 - Created UX/UI prototypes and wireframes for client's website
 - Content creation and social media management for Instagram and Facebook using Publer
