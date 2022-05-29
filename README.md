@@ -1,5 +1,6 @@
 # Hi there, I am Yen! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-A second-year undergraduate student
+A second-year undergraduate student  
+View my design portfolio [here](https://www.canva.com/design/DAFCDcL5JhA/xw4My2YjJjSntpreZVKEwg/view?utm_content=DAFCDcL5JhA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 ## 📖 Education
