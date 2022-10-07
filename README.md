@@ -1,5 +1,5 @@
 # Hi there, I am Yen! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-A second-year undergraduate student  
+A third-year undergraduate student  
 View my design portfolio [here](https://www.canva.com/design/DAFCDcL5JhA/xw4My2YjJjSntpreZVKEwg/view?utm_content=DAFCDcL5JhA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
@@ -7,7 +7,7 @@ View my design portfolio [here](https://www.canva.com/design/DAFCDcL5JhA/xw4My2Y
 **BSc Psychology** @ University of Nottingham *(September 2020 - Present)*
 - Expected graduation:2023
 - 25% scholarship
-- ***Modules include:*** Economic Integration, Making of Modern Asia, Neuroscience and Behaviour, SocialPsychology, Research Methods and Analyses
+- ***Modules include:*** Economic Integration, Making of Modern Asia, Neuroscience and Behaviour, Social Psychology, Research Methods and Analyses, Neuropsychology, Selections and Training in Organizations, Introduction to Psychological Assessmenets 
 
 **BSc Data Science and Business Analytics** @ University of London with academic direction by London School of Economics *(September 2020 - Present)*
 - Expected graduation:2024
@@ -28,9 +28,9 @@ View my design portfolio [here](https://www.canva.com/design/DAFCDcL5JhA/xw4My2Y
 
 ## 👩‍💻 Work Experiences
 **Research Intern** @ [Khazanah Research Institute](https://www.krinstitute.org/) *(Starting in June 2022)*
-- Performing library research on specified topics
-- Collecting, processing and visualisation of data from various sources of large data sets using statistical analysis software in the preparation of statistical reports and data presentations
-- Providing assistance in the production of research reports, presentations, articles and other publications
+- Performedlibrary research on specified topics
+- Collected processedand visualised ata from various sources of large datasets using statistical analysis softwares to prepare statistical reports and data presentations
+- Providedssistance in the production of research reports, presentations, articles and other publications
 
 **Co-founder** @ [Skill Defyne Global](http://skilldefyne.com/) *(January 2021 - May 2022)*  
 Edutech and service platform for undergraduate students
@@ -103,3 +103,6 @@ previously the departmental associate for information technology and design depa
   - Cert. Introduction to Business Analysis using Spreadsheets
   - Cert. Create your first Python Program
 
+## 📖 Publications
+- Loke Pak-Yen and Rachel Gong. 2022. Digital public administration services: is technology adoption enough? Kuala Lumpur: Khazanah Research Institute. License: Creative Commons Attribution CC BY 3.0
+- Malaysian Association of Psychology Students. 2022. The Malaysian Psychology Student Guide.
