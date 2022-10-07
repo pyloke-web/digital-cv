@@ -103,6 +103,6 @@ previously the departmental associate for information technology and design depa
   - Cert. Introduction to Business Analysis using Spreadsheets
   - Cert. Create your first Python Program
 
-## 📖 Publications
-- Loke Pak-Yen and Rachel Gong. 2022. Digital public administration services: is technology adoption enough? Kuala Lumpur: Khazanah Research Institute. License: Creative Commons Attribution CC BY 3.0
-- Malaysian Association of Psychology Students. 2022. The Malaysian Psychology Student Guide.
+## 📜 Publications
+- Loke Pak-Yen and Rachel Gong. 2022. [Digital public administration services: is technology adoption enough? Kuala Lumpur: Khazanah Research Institute.](http://www.krinstitute.org/assets/contentMS/img/template/editor/Digitalisation%20Views%20v1.4%20pub.pdf)) License: Creative Commons Attribution CC BY 3.0
+- Malaysian Association of Psychology Students. 2022. [The Malaysian Psychology Student Guide.](https://docs.google.com/document/d/1e93ynpO_DopF01H23Z7yN1c6eqG8_us8l1LajK7y7Wk/edit?usp=sharing)
