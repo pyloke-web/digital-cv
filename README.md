@@ -4,7 +4,7 @@ View my design portfolio [here](https://www.canva.com/design/DAFCDcL5JhA/xw4My2Y
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 ## 📖 Education
-**BSc Psychology** @ University of Nottingham *(September 2020 - Present)*
+**BSc (Hons) Psychology** @ University of Nottingham *(September 2020 - Present)*
 - Expected graduation:2023
 - 25% scholarship
 - ***Modules include:*** Economic Integration, Making of Modern Asia, Neuroscience and Behaviour, Social Psychology, Research Methods and Analyses, Neuropsychology, Selections and Training in Organizations, Introduction to Psychological Assessmenets 
