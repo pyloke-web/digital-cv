@@ -9,7 +9,7 @@ View my design portfolio [here](https://www.canva.com/design/DAFCDcL5JhA/xw4My2Y
 - 25% scholarship
 - ***Modules include:*** Economic Integration, Making of Modern Asia, Neuroscience and Behaviour, Social Psychology, Research Methods and Analyses, Neuropsychology, Selections and Training in Organizations, Introduction to Psychological Assessmenets 
 
-**BSc Data Science and Business Analytics** @ University of London with academic direction by London School of Economics *(September 2020 - Present)*
+**BSc Data Science and Business Analytics** @ University of London with academic direction by London School of Economics *(November 2020 - Present)*
 - Expected graduation:2024
 - ***Modules include:*** Business and Management in a Global Context, Statistics, Business Analytics, Applied Modelling and Prediction, Economics, Machine Learning
 
@@ -27,10 +27,11 @@ View my design portfolio [here](https://www.canva.com/design/DAFCDcL5JhA/xw4My2Y
 - ***Modules include:*** Science Stream Subjects, Principle of Accountings, Mandarin
 
 ## 👩‍💻 Work Experiences
-**Research Intern** @ [Khazanah Research Institute](https://www.krinstitute.org/) *(Starting in June 2022)*
-- Performedlibrary research on specified topics
-- Collected processedand visualised ata from various sources of large datasets using statistical analysis softwares to prepare statistical reports and data presentations
-- Providedssistance in the production of research reports, presentations, articles and other publications
+**Research Intern** @ [Khazanah Research Institute](https://www.krinstitute.org/) *(June 2022- September 2022)*
+- Performed library research on specified topics
+- Collected, processed and visualised ata from various sources of large datasets using statistical analysis softwares to prepare statistical reports and data presentations
+- Provided assistance in the production of research reports, presentations, articles and other publications
+- ***Technologies used:*** Tableau, Microsoft Office Tools
 
 **Co-founder** @ [Skill Defyne Global](http://skilldefyne.com/) *(January 2021 - May 2022)*  
 Edutech and service platform for undergraduate students
@@ -106,3 +107,4 @@ previously the departmental associate for information technology and design depa
 ## 📜 Publications
 - Loke Pak-Yen and Rachel Gong. 2022. [Digital public administration services: is technology adoption enough? Kuala Lumpur: Khazanah Research Institute.](http://www.krinstitute.org/assets/contentMS/img/template/editor/Digitalisation%20Views%20v1.4%20pub.pdf)) License: Creative Commons Attribution CC BY 3.0
 - Malaysian Association of Psychology Students. 2022. [The Malaysian Psychology Student Guide.](https://docs.google.com/document/d/1e93ynpO_DopF01H23Z7yN1c6eqG8_us8l1LajK7y7Wk/edit?usp=sharing)
+- Loke Pak-Yen, 2022. [Malaysia Today: How did we get here?](https://www.ideas.org.my/malaysia-today-how-did-we-get-here/) Institute for Democracy and Economic Affairs (IDEAS)
