@@ -108,3 +108,8 @@ previously the departmental associate for information technology and design depa
 - Loke Pak-Yen and Rachel Gong. 2022. [Digital public administration services: is technology adoption enough? Kuala Lumpur: Khazanah Research Institute.](http://www.krinstitute.org/assets/contentMS/img/template/editor/Digitalisation%20Views%20v1.4%20pub.pdf)) License: Creative Commons Attribution CC BY 3.0
 - Malaysian Association of Psychology Students. 2022. [The Malaysian Psychology Student Guide.](https://docs.google.com/document/d/1e93ynpO_DopF01H23Z7yN1c6eqG8_us8l1LajK7y7Wk/edit?usp=sharing)
 - Loke Pak-Yen, 2022. [Malaysia Today: How did we get here?](https://www.ideas.org.my/malaysia-today-how-did-we-get-here/) Institute for Democracy and Economic Affairs (IDEAS)
+
+
+## 📜 Data and Visualisations
+- [A Visualisation of Mental Health in Malaysia] (https://public.tableau.com/app/profile/loke.pak.yen/viz/MentalHealthOverview_16585096024760/Prevalence_MD_2015)
+- [Mental Health Related Open Data] (https://github.com/pyloke-web/Malaysia-Mental-Health-Data)
