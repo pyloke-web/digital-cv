@@ -110,6 +110,6 @@ previously the departmental associate for information technology and design depa
 - Loke Pak-Yen, 2022. [Malaysia Today: How did we get here?](https://www.ideas.org.my/malaysia-today-how-did-we-get-here/) Institute for Democracy and Economic Affairs (IDEAS)
 
 
-## 📜 Data and Visualisations
-- [A Visualisation of Mental Health in Malaysia] (https://public.tableau.com/app/profile/loke.pak.yen/viz/MentalHealthOverview_16585096024760/Prevalence_MD_2015)
-- [Mental Health Related Open Data] (https://github.com/pyloke-web/Malaysia-Mental-Health-Data)
+## 📈 Data and Visualisations Projects
+- [A Visualisation of Mental Health in Malaysia](https://public.tableau.com/app/profile/loke.pak.yen/viz/MentalHealthOverview_16585096024760/Prevalence_MD_2015)
+- [Mental Health Related Open Data](https://github.com/pyloke-web/Malaysia-Mental-Health-Data)
